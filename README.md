@@ -8,7 +8,7 @@ IJCAI 2026
 
 ## 🚧 Code Coming Soon
 
-The code will be released upon paper acceptance and publication. Please stay tuned.
+The code will be released upon official acceptance of the paper. Please stay tuned.
 
 ## Citation
 
@@ -16,11 +16,9 @@ If you find this work helpful, please cite:
 
 ```bibtex
 @inproceedings{tian2026ocaad,
-  title     = {Object-Centric Alignment and Anchor Distillation for 
-               Weakly Supervised Referring Expression Comprehension},
+  title     = {Object-Centric Alignment and Anchor Distillation for Weakly Supervised Referring Expression Comprehension},
   author    = {Tian, Yi and Yang, Cheng and Huang, Qingbao},
-  booktitle = {Proceedings of the International Joint Conference on 
-               Artificial Intelligence (IJCAI)},
+  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
   year      = {2026}
 }
 ```
@@ -28,4 +26,5 @@ If you find this work helpful, please cite:
 ## Contact
 
 For questions, please contact:
-- Yi Tian: 2412391054@st.gxu.edu.cn
+
+- **Yi Tian**: 2412391054@st.gxu.edu.cn
