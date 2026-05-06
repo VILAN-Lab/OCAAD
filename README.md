@@ -3,7 +3,7 @@
 Official code for the paper:
 
 **"Object-Centric Alignment and Anchor Distillation for Weakly Supervised Referring Expression Comprehension"**  
-*Yi Tian, Cheng Yang, Qingbao Huang**  
+*Yi Tian, Cheng Yang, Qingbao Huang*  
 IJCAI 2026
 
 ## 🚧 Code Coming Soon
@@ -27,4 +27,4 @@ If you find this work helpful, please cite:
 
 For questions, please contact:
 
-- **Tian**: 2412391054@st.gxu.edu.cn
+- **Yi Tian**: 2412391054@st.gxu.edu.cn
