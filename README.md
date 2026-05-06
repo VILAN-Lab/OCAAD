@@ -8,7 +8,7 @@ IJCAI 2026
 
 ## 🚧 Code Coming Soon
 
-The code will be released upon official acceptance of the paper. Please stay tuned.
+The code will be released upon official publication of the paper. Please stay tuned.
 
 ## Citation
 
