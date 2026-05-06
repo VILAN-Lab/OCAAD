@@ -27,4 +27,4 @@ If you find this work helpful, please cite:
 
 For questions, please contact:
 
-- **Yi Tian**: 2412391054@st.gxu.edu.cn
+- **Tian**: 2412391054@st.gxu.edu.cn
